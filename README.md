@@ -1,4 +1,6 @@
+# todo-everent React + Redux-toolkit dragable Todotask app
+
 # React + Vite
 
 ## run npm install
-## run command - npm run dev# todo-everent
+## run command - npm run dev
